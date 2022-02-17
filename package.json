@@ -1,0 +1,6 @@
+{
+  "name": "esp8266-http-client",
+  "version": "1.0.0",
+  "description": "A simple Kaluma HTTP client library for ESP8266 module",
+  "main": "index.js"
+}
